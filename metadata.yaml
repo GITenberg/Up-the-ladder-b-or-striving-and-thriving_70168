@@ -1,0 +1,31 @@
+_repo: Up-the-ladder-b-or-striving-and-thriving_70168
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2023-02-28'
+identifiers:
+  gutenberg: '70168'
+language: en
+pgterms:marc905: 20230223135637leslie
+pgterms:marc906: '1863'
+pgterms:marc907: US
+production_note: an anonymous Project Gutenberg volunteer.
+publication_note: '  $aUnited States :$bYoung & Bartlett, $c1863.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Up the ladder : $b or, striving and thriving'
+url: http://www.gutenberg.org/ebooks/70168
