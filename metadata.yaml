@@ -1,5 +1,8 @@
 _repo: Up-the-ladder-b-or-striving-and-thriving_70168
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leslie, Madeline
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31136
     wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70168#Up-the-ladder-b-or-striving-and-thriving
 gutenberg_issued: '2023-02-28'
 identifiers:
   gutenberg: '70168'
